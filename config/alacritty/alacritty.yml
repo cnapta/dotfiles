@@ -1,0 +1,72 @@
+## Color scheme (Lost)
+
+colors:
+  cursor:
+    text: "#f5f5f5"
+    cursor: "#07a812"
+
+  selection:
+    text: "#f5f5f5"
+    background: "#7ecafe"
+
+  primary:
+    background: "#020713"
+    foreground: "#0ed31a"
+
+  normal:
+    black: "#000000"
+    red: "#ff0000"
+    green: "#38de21"
+    yellow: "#ffe50a"
+    blue: "#1460d2"
+    magenta: "#ff005d"
+    cyan: "#00bbbb"
+    white: "#bbbbbb"
+
+  bright:
+    black: "#555555"
+    red: "#f40e17"
+    green: "#3bd01d"
+    yellow: "#edc809"
+    blue: "#5555ff"
+    magenta: "#ff55ff"
+    cyan: "#6ae3fa"
+    white: "#ffffff"
+
+## Cursor
+
+cursor:
+  style: Beam
+  unfocused_hollow: true
+  custom_cursor_colors: true
+  hide_when_typing: true
+  
+## Fonts
+
+font:
+  normal:
+    family: Hack NF
+    style: Regular
+
+  bold:
+    family: Hack NF
+    style: Bold
+
+  italic:
+    family: Hack NF 
+    style: Italic
+
+  size: 11
+  draw_bold_text_with_bright_colors: true 
+
+## Keybindings
+
+key_bindings:
+  - { key: V,         mods: Control,        action: Paste                }
+  - { key: C,         mods: Control,        action: Copy                 }
+  - { key: S,         mods: Control,        action: SpawnNewInstance     }
+## General settings
+
+live_config_reload: true
+window:
+  opacity: 0.9

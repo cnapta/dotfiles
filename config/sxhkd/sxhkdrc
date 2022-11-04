@@ -1,0 +1,79 @@
+#################################################
+#                   Terminal                    #
+#################################################
+
+super + Return
+	alacritty
+
+#################################################
+#                 Launch-Apps                   #
+#################################################
+
+alt + {f,w,s}
+  {pcmanfm,firefox,spotify}
+
+#################################################
+#                 BetterLockScreen              #
+#################################################
+
+alt + m
+ 	betterlockscreen -l blur
+
+#################################################
+#                 Bspwm Hotkeys                 #
+#################################################
+
+# Reload Sxhkd
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# quit/restart bspwm
+super + alt + {q,r}
+	bspc {quit,wm -r}
+
+# close and kill
+super + {_,shift + }z
+	bspc node -{c,k}
+
+# Kill Window
+ctrl + alt + Escape
+  xkill
+
+# Send focused window to another workspace and change 
+super + {_,shift + }{1-6}
+	bspc {desktop -f,node -d} '^{1-6}'
+
+#################################################
+#                 States/Flags                  #
+#################################################
+
+# Set fullscreen the focus window
+super + f
+	bspc node -t fullscreen
+
+# Set floating mode or tiled 
+alt + space
+	bspc node -t "~"{floating,tiled}
+
+# Send the window to another edge of the screen
+super + {_,shift + }{Left,Down,Up,Right}
+	bspc node -{f,s} {west,south,north,east}
+
+
+################################################
+#                Move/Resize                   #
+################################################
+
+# Expanding windows
+super + control + {Left,Right,Up,Down}
+	bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20}
+
+## Shrinking windows
+super + alt + {Left,Right,Up,Down}
+	bspc node -z {left 20 0,right -20 0,top 0 20,bottom 0 -20}
+
+## Move floating windows
+alt + shift + {Left,Down,Up,Right}
+	bspc node -v {-20 0,0 20,0 -20,20 0}	
+
+#--------------------End-----------------------#

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rf/Descargas/Terminus.zip" added="2022-10-19T23:10:12.161379Z" modified="2022-10-19T23:10:12.161398Z" visited="2022-10-19T23:10:12.161384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-19T23:10:12.161389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/.screenlayout/arandr.sh" added="2022-10-19T23:21:22.250399Z" modified="2022-10-20T18:03:44.123527Z" visited="2022-10-19T23:21:22.250403Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2022-10-20T18:03:44.123519Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Descargas/Iosevka.zip" added="2022-10-19T23:42:24.001752Z" modified="2022-10-19T23:42:24.001784Z" visited="2022-10-19T23:42:24.001757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-19T23:42:24.001770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Descargas/solarized.dark.txt" added="2022-10-20T23:23:06.370747Z" modified="2022-10-20T23:23:06.370768Z" visited="2022-10-20T23:23:06.370752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-20T23:23:06.370759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/.config/bspwm/scripts/xrandr.sh" added="2022-10-21T20:00:23.719949Z" modified="2022-10-21T20:00:23.719966Z" visited="2022-10-21T20:00:23.719953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2022-10-21T20:00:23.719959Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Descargas/Lapce-linux.tar.gz" added="2022-10-21T21:26:48.466343Z" modified="2022-10-21T21:26:48.466364Z" visited="2022-10-21T21:26:48.466349Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-10-21T21:26:48.466356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/.config/polybar" added="2022-10-21T21:45:11.347954Z" modified="2022-10-22T01:00:08.638946Z" visited="2022-10-21T21:45:11.347958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="lapce" exec="&apos;lapce %u&apos;" modified="2022-10-22T01:00:08.638939Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/.config/polybar/scripts" added="2022-10-21T21:48:49.299095Z" modified="2022-10-21T21:52:20.065978Z" visited="2022-10-21T21:48:49.299099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="lapce" exec="&apos;lapce %u&apos;" modified="2022-10-21T21:52:20.065971Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/.config/polybar/scripts/rofi" added="2022-10-21T21:52:52.835650Z" modified="2022-10-21T21:52:52.835669Z" visited="2022-10-21T21:52:52.835655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="lapce" exec="&apos;lapce %u&apos;" modified="2022-10-21T21:52:52.835661Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Images/Arch.png" added="2022-10-22T00:34:33.932440Z" modified="2022-10-22T00:38:45.238912Z" visited="2022-10-22T00:34:33.932445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-22T00:38:45.238904Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Images/Fondo-basico-1.png" added="2022-10-22T00:34:43.300204Z" modified="2022-10-22T00:42:10.594041Z" visited="2022-10-22T00:34:43.300209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-22T00:42:10.594031Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Images/Wallpaper-3.png" added="2022-10-22T00:34:50.614460Z" modified="2022-10-24T22:54:10.594615Z" visited="2022-10-22T00:34:50.614464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-24T22:54:10.594608Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Downloads/steam_latest.deb" added="2022-10-22T01:21:42.117976Z" modified="2022-10-22T01:21:42.117997Z" visited="2022-10-22T01:21:42.117980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-22T01:21:42.117989Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Downloads/Fira_Code_v6.2.zip" added="2022-10-25T14:37:09.792261Z" modified="2022-10-25T14:37:09.792326Z" visited="2022-10-25T14:37:09.792265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-25T14:37:09.792318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Downloads/FiraCode.zip" added="2022-10-25T15:27:23.991089Z" modified="2022-10-25T15:27:23.991108Z" visited="2022-10-25T15:27:23.991093Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-25T15:27:23.991100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Downloads/Hack.zip" added="2022-10-25T15:27:32.713307Z" modified="2022-10-25T15:27:32.713324Z" visited="2022-10-25T15:27:32.713311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-25T15:27:32.713317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rf/Downloads/HeavyData.zip" added="2022-10-25T15:27:38.486138Z" modified="2022-10-25T15:27:38.486156Z" visited="2022-10-25T15:27:38.486142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-10-25T15:27:38.486149Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

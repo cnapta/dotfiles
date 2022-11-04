@@ -1,0 +1,3 @@
+#Autostart
+exec bspwm &&
+sxhkdrc
