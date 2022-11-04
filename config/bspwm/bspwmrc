@@ -17,14 +17,11 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 # Run picom 
 picom --experimental-backends &
 
-# Run mouse bindings
-xbindkeys &
-
 # Run Wallpaper
 sh ~/.fehbg &
 
 # Run display config
-sh ~/.config/bspwm/xrandr.sh &
+#sh ~/.config/bspwm/xrandr.sh &
 
 # Run panels 
 sh ~/.config/bspwm/polybar.sh &

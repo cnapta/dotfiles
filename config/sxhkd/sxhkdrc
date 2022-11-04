@@ -9,8 +9,8 @@ super + Return
 #                 Launch-Apps                   #
 #################################################
 
-alt + {f,w,s}
-  {pcmanfm,firefox,spotify}
+alt + {f,w,s,d}
+  {pcmanfm,firefox,spotify,rofi -show drun}
 
 #################################################
 #                 BetterLockScreen              #
@@ -18,6 +18,13 @@ alt + {f,w,s}
 
 alt + m
  	betterlockscreen -l blur
+
+#################################################
+#                   Flameshot                   #
+#################################################
+
+super + p
+    flameshot gui
 
 #################################################
 #                 Bspwm Hotkeys                 #
