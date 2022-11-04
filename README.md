@@ -1,5 +1,9 @@
 # Bspwm Dotfiles
 my personal dotfiles for bspwm.
+
+this dotfiles as made for two monitors of 1650x900 and 1440x900 so to dont get really compliced i 
+erase the lines of the second monitor and problaly you may has to rescale all bars so good luck.
+
 #### Examples
 
 > to use only clone the repo an move the files or only exec in a terminal this commands.
@@ -24,5 +28,5 @@ my personal dotfiles for bspwm.
 - **Bars**: Polybar.
 - **Transparent and blur**: picom.
 - **AUR Helper**: yay.
-- **File manager**: Pcmanfm-gtk3.
+- **File manager**: Pcmanfm-gtk3/NNN.
 - **Wallpaper**: my own creation.
