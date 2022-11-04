@@ -1,34 +1,25 @@
 # Bspwm Dotfiles
-my personal dotfiles for bspwm
+my personal dotfiles for bspwm.
+#### Examples
 
-DISTRO: ARCH LINUX
+**to use only clone the repo an move the files or only exec in a terminal this commands**.
 
-Terminal: Alacritty
+git clone https://github.com/cnapta/dotfiles.git.
+mv config/ ~/.config.
+mv local/ ~/.local.
+mv misc/ ~/.
 
-Editor: Nvim/Lapce
+#### Apps 
 
-Music Player: Spotify
+- DISTRO: ARCH LINUX
 
-Browser: Firefox
-
-Window Manager: BSPWM & SXHKD
-
-Bars: Polybar
-
-Transparent and blur: picom
-
-AUR Helper: yay
-
-File Manager: Pcmanfm-gtk3
-
-Wallpaper: my own creation
-
-to use only clone the repo an move the files or only exec in a terminal this commands
-
-git clone https://github.com/cnapta/dotfiles.git
-
-mv config/ ~/.config
-
-mv local/ ~/.local
-
-mv misc/ ~/
+- **Terminal**: Alacritty.
+- **Editor**: Nvim/Lapce.
+- **Music Player**: Spotify.
+- **Browser**: Firefox.
+- **Window Manager**: BSPWM & SXHKD.
+- **Bars**: Polybar.
+- **Transparent and blur**: picom.
+- **AUR Helper**: yay.
+- **File manager**: Pcmanfm-gtk3.
+- **Wallpaper**: my own creation.
