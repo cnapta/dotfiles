@@ -6,6 +6,12 @@ erase the lines of the second monitor and problaly you may has to rescale all ba
 
 #### Examples
 
+![desktop0](.assets/examples-0.png)
+
+![desktop1](.assets/examples-2.png)
+
+#### Install
+
 > to use only clone the repo an move the files or only exec in a terminal this commands.
 
 1. git clone https://github.com/cnapta/dotfiles.git.
